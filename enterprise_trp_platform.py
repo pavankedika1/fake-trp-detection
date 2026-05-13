@@ -332,7 +332,7 @@ elif menu == "Dashboard":
         # DATASET
         st.subheader("Dataset Preview")
 
-        st.dataframe(data)
+        st.dataframe(data.head(5))
 
         # FEATURE IMPORTANCE
         st.subheader("Feature Importance")
