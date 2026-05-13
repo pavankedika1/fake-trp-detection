@@ -1,3 +1,8 @@
+## Disclaimer
+
+This project uses simulated/demo data for educational and research purposes only.
+No real television audience analytics or confidential TRP records are included.
+
 # Fake TRP Detection System
 ## Enterprise AI-Based Television Rating Fraud Detection
 This project detects fake TRP (Television Rating Point) manipulation using Machine Learning and behavioral analytics.
